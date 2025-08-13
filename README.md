@@ -12,22 +12,27 @@
 
 # Steps to run the code
 # 1. Clone the repository:
-   '''bash
+   #run the command on bash
+   
    git clone https://github.com/amararora24/BigDataProject.git
    
    cd BigDataProject
 
-#2 Create a Virtual Environment (Optional but Recommended)
-# run the command on bash
+# 2 Create a Virtual Environment (Optional but Recommended)
+#run the command on bash
 python -m venv venv
+
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-#3 Install Dependencies
-# run the command on bash. Requirements.txt file has all required python packages for the project
+# 3 Install Dependencies
+#run the command on bash. Requirements.txt file has all required python packages for the project
+
 pip install -r requirements.txt
 
-#4 Launch Jupyter Notebook
+# 4 Launch Jupyter Notebook
+
 jupyter notebook big-data-project-d-Kaggle.ipynb
 
-#5 run the code in the jupyter notebook
+# 5 run the code in the jupyter notebook
+
 run all
