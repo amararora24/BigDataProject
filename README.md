@@ -14,6 +14,7 @@
 # 1. Clone the repository:
    '''bash
    git clone https://github.com/amararora24/BigDataProject.git
+   
    cd BigDataProject
 
 #2 Create a Virtual Environment (Optional but Recommended)
